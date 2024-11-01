@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @janvipargai
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on projects that may contribute to my technical skills and some team driven projects.
+- 📫 email- janvi.pargai007@gmail.com, linkedin- https://www.linkedin.com/in/janvi-pargai-92ba5b311/
+- 😄 Pronouns: she/her
+
+<!---
+janvipargai1/janvipargai1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
