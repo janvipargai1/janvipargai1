@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @janvipargai
+- 👋 Hi, I’m @janvipargai1
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on projects that may contribute to my technical skills and some team driven projects.
